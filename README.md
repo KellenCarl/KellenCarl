@@ -1,10 +1,5 @@
 ### Hello Reader! 👋
 
-<!--
-**KellenCarl/KellenCarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on making my website the best experience possible: https://kellensbulkybooks.azurewebsites.net/
 - 🌱 I’m currently learning AppSec best practices.
 - 👯 I’m looking to collaborate on anything .NET related, especially Docs and AppSec related.
